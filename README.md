@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Graceth+/grey-set/!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77BC7&width=435&lines=Hi!+I'm+Graceth+%2Fgrey-set%2F!)](https://git.io/typing-svg)
 
 🌟 Welcome to my GitHub profile! I'm an IT Systems International Student in Canada with a passion for coding and problem-solving. 
 
@@ -19,7 +19,7 @@ You can click the Preview link to see how your changes will appear on your profi
 
 ---
 
-### Languages and Tools
+### Languages and Tools currently learning..
 
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.cppreference.com/)
