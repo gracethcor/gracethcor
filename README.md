@@ -2,9 +2,7 @@
 
 🌟 Welcome to my GitHub profile! I'm an IT Systems International Student in Canada with a passion for coding and problem-solving. 
 
-👀 I’m interested in expanding my knowledge in technology, exploring new coding challenges, and contributing to meaningful projects.
-
-🌱 Currently, I'm learning about the basics of IT Systems, various programming languages and I'm working on enhancing my skills in software development and technical support.
+👀 I’m interested in expanding my knowledge in technology and exploring new coding challenges, and contributing to meaningful projects.
 
 🎮 As a #girlgamer, you'll often find me immersed in the world of MMORPG (nothing beats the classic pRO/Philippine Ragnarok Online). I've ventured into private servers like DarkRO and I'm still an avid player, always up for an epic adventure.
 
