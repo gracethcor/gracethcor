@@ -22,5 +22,8 @@ You can click the Preview link to see how your changes will appear on your profi
 
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.cppreference.com/)
+[![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
+[![Linux](https://img.icons8.com/color/48/000000/linux--v1.png)](https://www.linux.org/)
 
 <!-- Add more icons and links here for other languages and tools. -->
+
