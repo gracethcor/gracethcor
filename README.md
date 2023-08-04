@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Graceth /grey-set/ !
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Graceth+/grey-set/!)](https://git.io/typing-svg)
 
 🌟 Welcome to my GitHub profile! I'm an IT Systems International Student in Canada with a passion for coding and problem-solving. 
 
@@ -10,7 +10,7 @@
 
 💞️ I’m open to collaborating on projects that involve coding, scripting, and exploring the world of IT.
 
-![](https://komarev.com/ghpvc/?username=gracethcor&style=plastic&color=ff69b4) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/gracethcornelio/))
+![](https://komarev.com/ghpvc/?username=gracethcor&style=plastic&color=ff69b4) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)](https://www.linkedin.com/in/gracethcornelio/)
 
 <!---
 gracethcor/gracethcor is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
