@@ -8,7 +8,8 @@
 
 💞️ I’m open to collaborating on projects that involve coding, scripting, and exploring the world of IT.
 
-![](https://komarev.com/ghpvc/?username=gracethcor&style=plastic&color=ff69b4) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)](https://www.linkedin.com/in/gracethcornelio/)
+![](https://komarev.com/ghpvc/?username=gracethcor&style=plastic&color=ff69b4) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gracethcornelio/)](https://www.linkedin.com/in/gracethcornelio/) [![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white&link=https://discord.com/channels/lavinia333)](https://discord.com/channels/lavinia333)
+
 
 <!---
 gracethcor/gracethcor is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
